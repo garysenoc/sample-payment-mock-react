@@ -2,7 +2,7 @@
 
 // PayPal credentials
 const PAYPAL_CLIENT_ID = 'Af5DrGhsONOr7FEkJBndAbtFqqNG-XqE0JDk_YtXg4eirj8nCmTwQ1d_6jYcyXfssAKVtB2ybQrtHJh8';
-const PAYPAL_SECRET = 'EDJj_VY0nHYHEO93C5cZvPEuWIThulwXemU6VLIrahHrB-3shGaKrhvXtoCwit3dR3Q6bHNJ2ECctbE4';
+// const PAYPAL_SECRET = 'EDJj_VY0nHYHEO93C5cZvPEuWIThulwXemU6VLIrahHrB-3shGaKrhvXtoCwit3dR3Q6bHNJ2ECctbE4';
 
 // Types
 export interface AccountData {
